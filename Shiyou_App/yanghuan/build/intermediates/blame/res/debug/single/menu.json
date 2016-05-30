@@ -2,5 +2,9 @@
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\menu\\main.xml"
     }
 ]

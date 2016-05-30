@@ -1,11 +1,23 @@
 [
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\point_pressed.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\point_pressed.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\point_unpressed.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\point_unpressed.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\point_pressed.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\point_pressed.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img1.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\main_img1.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img4.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\main_img4.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\yh.png",
@@ -24,8 +36,28 @@
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img2.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\main_img2.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img1.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\main_img1.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\yh.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\yh.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\point_unpressed.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\point_unpressed.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img3.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\main_img3.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_img2.png",

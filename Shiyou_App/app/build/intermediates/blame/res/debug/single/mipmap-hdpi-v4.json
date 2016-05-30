@@ -4,6 +4,10 @@
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Shiyou_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Shiyou_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\Androidpr\\Shiyou_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "E:\\Androidpr\\Shiyou_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

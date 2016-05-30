@@ -8,6 +8,10 @@
         "source": "C:\\Users\\qiangsheng\\Desktop\\MyApp_novel\\libzxing\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
     },
     {
+        "merged": "E:\\Shiyou_App\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\beep.ogg",
+        "source": "E:\\Shiyou_App\\libzxing\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\beep.ogg",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\libzxing\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
     },

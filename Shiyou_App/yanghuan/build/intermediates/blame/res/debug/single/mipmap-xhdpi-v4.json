@@ -1,7 +1,15 @@
 [
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_my_down.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_my_down.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_buy_up.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_buy_up.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b6.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b6.jpg"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\back.png",
@@ -12,12 +20,12 @@
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_my_down.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\jcz.png",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\jcz.png"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a4.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\jcz.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\jcz.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_sale_up.png",
@@ -28,12 +36,44 @@
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\background.jpg"
     },
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a4.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a4.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\jlp.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\jlp.png"
     },
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_chat_down.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_chat_down.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_my_up.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_my_up.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_sale_down.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_sale_down.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a1.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b3.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b3.jpg"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b3.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b3.jpg"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\right.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\right.jpg"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_buy_up.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_buy_up.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\right.jpg",
@@ -44,47 +84,95 @@
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_chat_up.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b3.jpg",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b3.jpg"
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b4.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b4.jpg"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a3.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a3.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_sale_up.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_sale_up.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_sale_down.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_sale_down.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a3.png",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a3.png"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b4.jpg",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b4.jpg"
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_my_up.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_my_up.png"
     },
     {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b7.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b7.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\background.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\background.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a3.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a3.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\a1.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\a1.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\back.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_chat_up.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_chat_up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b4.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b4.jpg"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b6.jpg",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b6.jpg"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_chat_down.png",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_chat_down.png"
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\jlp.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\jlp.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b7.jpg",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b7.jpg"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b1.jpg",
-        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b1.jpg"
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_buy_down.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_buy_down.png"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_buy_down.png",
         "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_buy_down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b1.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_chat_down.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\icon_chat_down.png"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\b1.jpg",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\b1.jpg"
+    },
+    {
+        "merged": "E:\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\jcz.png",
+        "source": "E:\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-xhdpi\\jcz.png"
     }
 ]
