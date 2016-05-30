@@ -1,4 +1,4 @@
-package com.lxx;
+﻿package com.lxx;
 
 import android.app.Activity;
 import android.content.Context;
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
     String useshow=null;
     String selectPAssword;//根据账号查找到的密码
     int m;//记录到相应的偏好设置islogin的位置
-    boolean flag=true;//是否显示在记住密码列表
+    boolean flag=true;//是否显示在记住密码列表0.0
     int i;
     private Map<String, String> map;
     SharedPreferences sharedPreferences;
