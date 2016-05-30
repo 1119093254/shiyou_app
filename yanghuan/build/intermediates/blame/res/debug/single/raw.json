@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\raw\\libs",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\SMSSDK-2.0.2\\res\\raw\\libs"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\Shiyou_App\\libzxing\\unspecified\\res\\raw\\beep.ogg"
+    }
+]

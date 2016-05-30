@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_photo.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_photo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_more.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_more.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_review.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_review.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_background_icon_add.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_background_icon_add.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_camera.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_lbs.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_lbs.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_idea.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_idea.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tabbar_compose_background_icon_close.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\mipmap-hdpi\\tabbar_compose_background_icon_close.png"
+    }
+]

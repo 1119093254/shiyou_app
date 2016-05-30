@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Androidpr\\Shiyou_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Androidpr\\Shiyou_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

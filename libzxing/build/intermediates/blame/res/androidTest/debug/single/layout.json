@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Androidpr\\MyApp_novel\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\Androidpr\\MyApp_novel\\libzxing\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\libzxing\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\Androidpr\\Shiyou_App\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\Androidpr\\Shiyou_App\\libzxing\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiangsheng\\Desktop\\MyApp_novel\\libzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_capture.xml",
+        "source": "C:\\Users\\qiangsheng\\Desktop\\MyApp_novel\\libzxing\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_capture.xml"
+    }
+]

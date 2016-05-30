@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\alertdialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_bean_list.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_bean_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_guanzhu_quanbu.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_guanzhu_quanbu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\favorite_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\favorite_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_pai_hang.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_book_pai_hang.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\score_exange_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\score_exange_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gfjhhg.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_gfjhhg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\total.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\total.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_fans.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_fans.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\firstgradeview.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\firstgradeview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\dianshi_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\dianshi_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_neary.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_neary.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\headlist.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\headlist.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhuce.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_zhuce.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_paihang_window_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_paihang_window_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_collection.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_collection.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_dynamic.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_send_dynamic.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.loopeer.android.thirdparty.pulltorefresh\\Android-PullToRefresh\\2.1.1\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_fen_lei.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_book_fen_lei.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_account_manage.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_account_manage.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_message.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_message.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_advicefankui.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_advicefankui.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.loopeer.android.thirdparty.pulltorefresh\\Android-PullToRefresh\\2.1.1\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sucess.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_sucess.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\sendgridview.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\sendgridview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_shaixuan.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\nearby_shaixuan.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shi_you.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_shi_you.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_context.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_context.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_din_ying.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_din_ying.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_sucess.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_sucess.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_star.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_star.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\Shiyou_App\\libzxing\\unspecified\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\viewpager.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_pingbi_tianjia_account.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_pingbi_tianjia_account.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_case_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_case_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_title.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\nearby_title.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\lxx_gridview.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\lxx_gridview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score_exange.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_score_exange.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_collection_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_collection_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_store.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_store.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_details.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_book_details.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_add_account.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_add_account.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\store_item_jifen.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\store_item_jifen.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\task_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\task_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\about_dialog.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\about_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_case.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_case.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_case_delete.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_book_case_delete.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\jiemu_show_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\jiemu_show_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_config1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_config1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ping_bi_ta.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_ping_bi_ta.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_guanzhu_sousuo.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_guanzhu_sousuo.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_yanzheng_phone.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_yanzheng_phone.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\center.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\center.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_favorite.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_my_favorite.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_me_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_me_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jie_mu_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_jie_mu_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\jiemu.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\jiemu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\center_music_more_window.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\center_music_more_window.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_login.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_shaixuan.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_shaixuan.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_book.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_main_book.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\secondgradereview.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\secondgradereview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_replace_phone.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_replace_phone.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ping_bi_ta_cannotsee.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_ping_bi_ta_cannotsee.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_fenlei_griditem.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_fenlei_griditem.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account_safe.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_account_safe.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_fans.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_fans.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_pingbi_add2.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_pingbi_add2.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\contextlistview.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\contextlistview.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\match_league_round_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\match_league_round_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\details_item1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\details_item1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\lxx_layout_list_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\lxx_layout_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\shipin_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\shipin_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_guan_zhu.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_guan_zhu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_sex.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_sex.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_other_info.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_other_info.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\communication.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\communication.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_accountmanage2.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_accountmanage2.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\scrollview_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\scrollview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_case_full.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_case_full.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_paihang_window.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_paihang_window.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_shiyou.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_shiyou.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\recommend_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\otherinfo_item_zujin.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\otherinfo_item_zujin.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_bind_phone.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_bind_phone.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\store_item3.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\store_item3.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_guanzhu_list.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_guanzhu_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\recommend.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\recommend.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\slidingmenu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_task.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_my_task.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamic__details.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_dynamic__details.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showforum.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_showforum.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\layout_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\slide_content_topbar.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\slide_content_topbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_store_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_store_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_accountmanage3.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_accountmanage3.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_tong_zhi.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_tong_zhi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\chated.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\chated.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pictureshow.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_pictureshow.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_me.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_me.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dian_shi.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_dian_shi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\booklist_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\booklist_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\popwindow_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_accountmanage1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_accountmanage1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\case_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\case_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\weishi_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\weishi_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\weishi.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\weishi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pingbi_add.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_pingbi_add.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\totaltop.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\totaltop.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\collect_item1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\collect_item1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiang_qing.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\activity_xiang_qing.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\store_item1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\store_item1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_config2.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_config2.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_config.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_config.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\Shiyou_App\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_search.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_black_list.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\fragment_black_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\start_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\start_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\store_item2.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\store_item2.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_about_us.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_about_us.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_content.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\nearby_content.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_activity_main.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\hhy_item_pingbi_add.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\hhy_item_pingbi_add.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\book_paihang_viewpager1.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\book_paihang_viewpager1.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\store_item.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\store_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\readstory.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\readstory.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\layout\\item_config3.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\layout\\item_config3.xml"
+    }
+]

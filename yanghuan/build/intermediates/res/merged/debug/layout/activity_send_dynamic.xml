@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gemptc.example.ninegrid.gradereview.SendDynamic">
+
+    <EditText
+        android:id="@+id/add_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:minLines="8"
+        android:maxLines="8"
+        android:scrollbars="vertical"
+        android:background="@null"
+
+        >
+    </EditText>
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendGridview"
+        android:layout_below="@+id/add_content"
+        android:numColumns="4">
+    </GridView>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ceshiimage"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nvr.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\nvr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\otherinfo_addimage.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\otherinfo_addimage.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\card_icon_attention.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\card_icon_attention.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_backimage.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_backimage.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_roundbutton.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\shape_roundbutton.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_off_disabled_holo_light.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\btn_check_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\select.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\rectangle_button.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\rectangle_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.loopeer.android.thirdparty.pulltorefresh\\Android-PullToRefresh\\2.1.1\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_1.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\contact_1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\kk_title_back_p.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\kk_title_back_p.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear_normal.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\butn_open.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\butn_open.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_3_n.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\icon_3_n.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\card_icon_arrow.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\card_icon_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_search_bg.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\btn_search_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_0.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\contact_0.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_btn_delete.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_btn_delete.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_camera.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check_off_holo.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\btn_check_off_holo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_editbox_background.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_editbox_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.loopeer.android.thirdparty.pulltorefresh\\Android-PullToRefresh\\2.1.1\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_sina.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\img_sina.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lxx_list_item_border.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\lxx_list_item_border.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_edittext_shape.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\search_edittext_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\iv_delete_bg.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\iv_delete_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_icon.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_xiang.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\icon_xiang.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\guanzhu.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\guanzhu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_icon_dagou.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_icon_dagou.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sex_woman.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\sex_woman.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear_pressed.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_icon.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sex_man.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\sex_man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\card_icon_addattention.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\card_icon_addattention.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shaixuan_ageandxingazuo_style.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\shaixuan_ageandxingazuo_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\butn_close.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\butn_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\icon.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_delete.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_delete.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\deletebutton.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\deletebutton.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\left_icon.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\left_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_uzao.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\icon_uzao.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_qq.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\img_qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\right_icon.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\right_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\expander_open.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\expander_open.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contact_3.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\contact_3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.loopeer.android.thirdparty.pulltorefresh\\Android-PullToRefresh\\2.1.1\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\editbox_background_normal.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\editbox_background_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\expander_close.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\expander_close.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lv_search_tips_bg.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\lv_search_tips_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_up.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\indicator_up.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_down.jpg",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\indicator_down.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\radiobutton_style.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\radiobutton_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_video_poster.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\ic_media_video_poster.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hhy_tianjia.png",
+        "source": "E:\\AndroidStudio\\workspace\\Shiyou_App\\yanghuan\\src\\main\\res\\drawable-mdpi\\hhy_tianjia.png"
+    }
+]
